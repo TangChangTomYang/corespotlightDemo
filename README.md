@@ -1,4 +1,4 @@
 # corespotlightDemo
 
 
-[](./iamges/a.png)
+[](./images/a.png)
