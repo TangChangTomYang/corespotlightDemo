@@ -1,4 +1,4 @@
 # corespotlightDemo
 
 
-[](./images/a.png)
+![](./images/a.png)
